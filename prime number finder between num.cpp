@@ -1,3 +1,9 @@
+/*
+	jha tk prime number nikalna hai like 1000 then find a number jiska square 1000 se jada ho aur first ho
+	like 32 then find all prime number between 1 to 32 and write it in if box of k%number!=0
+	
+*/
+
 #include <bits/stdc++.h>
 
 using namespace std;
@@ -26,11 +32,7 @@ int prime()
 
 }
 
-/*
-	jha tk prime number nikalna hai like 1000 then find a number jiska square 1000 se jada ho aur first ho
-	like 32 then find all prime number between 1 to 32 and write it in if box of k%number!=0
-	
-*/
+
 
 
 int main()
