@@ -1,2 +1,1 @@
-# c-codes-
-various c++ codes 
+C++ programs that are buils my me. 
