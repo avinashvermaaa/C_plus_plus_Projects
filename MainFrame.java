@@ -1,5 +1,14 @@
 
-/* Avinash kumar   */
+/* Avinash kumar   
+    This is a simple login page using java.
+    
+    Run this java file in any IDE(java).
+    step 1 : Ente your first name
+    step 2 : Enter your last name
+    step 3 : click login or cancel
+    
+    Extra :-    you can minimize maximum and close the login window.
+*/
 import java.awt.*;
 
 import java.awt.event.*;
