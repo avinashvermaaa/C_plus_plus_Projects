@@ -1,3 +1,11 @@
+/*
+	This is a Random Password Generator (RPG). IT generates a random password of given length.
+	
+	step 1 :- Run the code in any IDE(c++).
+	step 2 :- Input the length of password you want to generate.
+	step 3 :- End the code as your random password is generated.
+*/
+
 #include<bits/stdc++.h>
 
 using namespace std;
