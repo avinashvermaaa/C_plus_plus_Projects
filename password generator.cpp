@@ -24,7 +24,7 @@ int generate()
 					  "~`!@#$%^&*({[]}):<>,.?/';_-+=|" ;
 
 	int pass;
-	cout<<"length of  password : - ";
+	cout<<" Enter the length of  password : - ";
 	cin>>pass;
 
 	rep(i,1,pass)
@@ -32,7 +32,7 @@ int generate()
 		password += data[rand() % 93] ;
 	}
 
-	cout<<" \nyour desired password is : "<<password<<endl;
+	cout<<" \nyour desired random password is:  "<<password<<endl;
 }
 
 int main()
